@@ -1,6 +1,6 @@
 # Robust-Color-Guided-Depth-Map-Restoration
 This is the released code of the following paper:
-Liu, W., Chen, X., Yang, J., & Wu, Q. (2017). Robust color guided depth map restoration. IEEE Transactions on Image Processing, 26(1), 315-327.
+Liu, W., Chen, X., Yang, J., & Wu, Q. (2017). Robust color guided depth map restoration. IEEE Transactions on Image Processing, 26(1), 315-327. [[paper]] (https://ieeexplore.ieee.org/abstract/document/7574299?casa_token=enuGvrDhESoAAAAA:oreP8p0hAC1a4jY2ryf6uUJ5oIpdyah1A-U3W0ow4ao0IeRbe27tr_Mg_o3P4Y8dnq7ugD01Ug)
 *********************************************************
 How to use:
 1. run MexFile.m
