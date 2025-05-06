@@ -13,3 +13,4 @@ If out of memory, set the value of r to a smaller one.
 **Related Work:**
 1. *"Semi-global weighted least squares in image filtering.", Wei Liu, Xiaogang Chen, Chuanhua Shen, Zhi Liu, and Jie Yang. In ICCV 2017.* [Code](https://github.com/wliusjtu/Semi-Global-Weighted-Least-Squares-in-Image-Filtering)
 2. *"A generalized framework for edge-preserving and structure-preserving image smoothing." Wei Liu, Pingping Zhang, Yinjie Lei, Xiaolin Huang, Jie Yang, and Michael Ng. IEEE Transactions on Transactions on Pattern Analysis and Machine Intelligence (2021).* [Code](https://github.com/wliusjtu/Generalized-Smoothing-Framework)
+3.  *“Fast Global Image Smoothing via Quasi Weighted Least Squares.” Wei Liu, Pingping Zhang, Hongxing Qin, Xiaolin Huang, Jie Yang, Michael Ng, International Journal of Computer Vision, 2024.* [Code](https://github.com/wliusjtu/Q-WLS)
